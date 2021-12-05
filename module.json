@@ -92,6 +92,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-shared-content/-/raw/master/my-shared-content.zip"
+    "manifest": "https://raw.githubusercontent.com/GreenManSK/My-shared-content--Foundry-VTT-/master/module.json",
+    "download": "https://github.com/GreenManSK/My-shared-content--Foundry-VTT-/raw/master/my-shared-content.zip"
   }
