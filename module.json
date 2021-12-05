@@ -1,22 +1,64 @@
 {
-    "name": "my-shared-content",
-    "title": "My Shared Content",
-    "description": "A collection of my content.",
+    "name": "greenman-shared-content",
+    "title": "GreenMan's Shared Content",
+    "description": "A collection of GreenMan's content.",
     "version": "1.0.0",
     "author": "Me",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.7.9",
     "packs": [
         {
-            "name": "shared-creatures",
-            "label": "Shared Creatures",
-            "path": "./packs/creatures.db",
+            "name": "shared-characters",
+            "label": "Shared Characters",
+            "path": "./packs/characters.db",
             "entity": "Actor"
+        },
+        {
+            "name": "shared-monsters",
+            "label": "Shared Monsters",
+            "path": "./packs/monsters.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "shared-backgrounds",
+            "label": "Shared Backgrounds",
+            "path": "./packs/backgrounds.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-classes",
+            "label": "Shared Classes",
+            "path": "./packs/classes.db",
+            "entity": "Item"
         },
         {
             "name": "shared-items",
             "label": "Shared Items",
             "path": "./packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-races",
+            "label": "Shared Races",
+            "path": "./packs/races.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-racial-traits",
+            "label": "Shared Racial Traits",
+            "path": "./packs/racial-traits.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-spells",
+            "label": "Shared Spells",
+            "path": "./packs/spells.db",
+            "entity": "Item"
+        },
+        {
+            "name": "shared-feats",
+            "label": "Shared Feats",
+            "path": "./packs/feats.db",
             "entity": "Item"
         },
         {
