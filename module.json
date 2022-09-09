@@ -2,7 +2,7 @@
     "name": "greenman-shared-content",
     "title": "GreenMan's Shared Content",
     "description": "A collection of GreenMan's content.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "Me",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.7.9",
@@ -11,61 +11,71 @@
             "name": "shared-characters",
             "label": "Shared Characters",
             "path": "./packs/characters.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "dnd5e"
         },
         {
             "name": "shared-monsters",
             "label": "Shared Monsters",
             "path": "./packs/monsters.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "dnd5e"
         },
         {
             "name": "shared-backgrounds",
             "label": "Shared Backgrounds",
             "path": "./packs/backgrounds.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-classes",
             "label": "Shared Classes",
             "path": "./packs/classes.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-items",
             "label": "Shared Items",
             "path": "./packs/items.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-races",
             "label": "Shared Races",
             "path": "./packs/races.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-racial-traits",
             "label": "Shared Racial Traits",
             "path": "./packs/racial-traits.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-spells",
             "label": "Shared Spells",
             "path": "./packs/spells.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-feats",
             "label": "Shared Feats",
             "path": "./packs/feats.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "dnd5e"
         },
         {
             "name": "shared-scenes",
             "label": "Shared Scenes",
             "path": "./packs/scenes.db",
-            "entity": "Scene"
+            "entity": "Scene",
+            "system": "dnd5e"
         },
         {
             "name": "shared-journal-entries",
